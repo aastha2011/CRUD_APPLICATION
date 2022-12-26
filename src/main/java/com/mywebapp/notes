@@ -1,0 +1,16 @@
+Step one-
+first we will create a spring project add the dependencies-
+1.spring web
+2.my sqldriver
+3.jdbc driver
+4.thymeleaf
+
+Step 2-
+create a main controller and an HTML page associated to it
+Add the bootstrap dependency in the xml file
+
+Step 3-
+Create a package 'user'and a Entity class User
+add the columns for the table
+ANNOTATIONS USED-
+1.Column -for the unique and not null email and for the length of the password i.e.15
